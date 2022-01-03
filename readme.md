@@ -4,5 +4,6 @@
 + Познакомиться с основными командами
 
 ```javascript
- console.log('aaaaaa')
+ let testString = 'This is test string'
+ console.log(testString);
 ```
